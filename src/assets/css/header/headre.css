@@ -1,0 +1,13 @@
+.header {
+	-webkit-box-shadow: 0px 9px 30px -10px rgba(0, 0, 0, 0.59);
+	box-shadow: 0px 9px 30px -10px rgba(0, 0, 0, 0.59);
+}
+.sideBarItem {
+	cursor: pointer;
+	padding: 12px;
+}
+.sideBarItem:hover {
+	background-color: rgba(0, 255, 255, 0.356);
+	padding-right: 8px;
+	border-radius: 25px;
+}
